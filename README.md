@@ -1,7 +1,7 @@
 ### Hi, nice to see you 😀 
-🔭 I’m currently working on AWS.
+🔭 I’m currently working as a Programmer Analyst in Cognizant.
 
-🌱 I’m currently learning about various Cloud platforms.
+🌱 I’m currently learning about Java and various Cloud platforms.
 
 👯 I’m looking to collaborate on AWS projects.
 
