@@ -1,5 +1,5 @@
 ### Hi, nice to see you 😀 
-🔭 I’m currently working as a Programmer Analyst in Cognizant.
+🔭 I’m currently working as a Programmer Analyst.
 
 🌱 I’m currently learning about Java and various Cloud platforms.
 
