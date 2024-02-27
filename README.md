@@ -1,9 +1,5 @@
 ### Hi, nice to see you 😀 
-🔭 I’m currently working as a Programmer Analyst.
-
-🌱 I’m currently learning about Java and various Cloud platforms.
-
-👯 I’m looking to collaborate on AWS projects.
+🔭 I’m currently working as a Software Engineer.
 
 💬 Ask me about anything related to new technologies and anime.
 
